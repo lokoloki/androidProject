@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pulka001</string>
+    <string name="networkactivity">network</string>
+    <string name="collageactivity">collage</string>
+    <string name="cameraactivity">camera</string>
+    <string name="albumsactivity">albums</string>
+    <string name="inside_folder">INSIDE FOLDER</string>
+</resources>

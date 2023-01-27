@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="veticalfont">20sp</dimen>
+   <dimen name="horizontalfont">10sp</dimen>
+    <dimen name="activitydimen">60sp</dimen>
+    <dimen name="listviewpadd">10dp</dimen>
+    <dimen name="insidefolder">30sp</dimen>
+
+</resources>

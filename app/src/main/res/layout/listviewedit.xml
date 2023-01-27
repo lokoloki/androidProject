@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@color/cardview_dark_background"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/image"
+        android:layout_height="match_parent">
+
+    </ImageView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/remove"
+            android:layout_width="wrap_content"
+            android:src="@drawable/albumsimg"
+            android:layout_height="wrap_content">
+
+        </ImageView>
+        <ImageView
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:src="@drawable/albumsimg"
+            android:layout_height="wrap_content">
+
+        </ImageView>
+        <ImageView
+            android:id="@+id/info"
+            android:layout_width="wrap_content"
+            android:src="@drawable/albumsimg"
+            android:layout_height="wrap_content">
+
+        </ImageView>
+
+    </LinearLayout>
+
+
+</LinearLayout>
